@@ -10,8 +10,8 @@ How to use:
 - go to Manage Jenkins (configuration)
 
 - find a section called Theme and set paths to the CSS and JS files, eg.
-	URL of theme CSS: http://your-jenkins.com/userContent/themes/jenkins-mario-mushrooms-theme/mario-mushrooms-theme.css
-	URL of theme JS: http://your-jenkins.com/userContent/themes/jenkins-mario-mushrooms-theme/mario-mushrooms-theme.js
+	- URL of theme CSS: http://your-jenkins.com/userContent/themes/jenkins-mario-mushrooms-theme/mario-mushrooms-theme.css
+	- URL of theme JS: http://your-jenkins.com/userContent/themes/jenkins-mario-mushrooms-theme/mario-mushrooms-theme.js
 
 - save changes and, all going well, your blobs should be replaced with Mario mushroom images
 
