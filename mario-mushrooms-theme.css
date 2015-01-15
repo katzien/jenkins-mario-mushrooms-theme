@@ -1,0 +1,78 @@
+/* Large icons */
+
+img.icon-red.icon-lg {
+    background-size: 32px!important;
+    padding: 16px 16px;
+    background: url('/userContent/themes/images/MarioMushrooms/64x64/mushroom_red_64x64.png');
+}
+
+img.icon-blue.icon-lg {
+    background-size: 32px!important;
+    padding: 16px 16px;
+    background: url('/userContent/themes/images/MarioMushrooms/64x64/mushroom_green_64x64.png');
+}
+
+img.icon-yellow.icon-lg {
+    background-size: 32px!important;
+    padding: 16px 16px;
+    background: url('/userContent/themes/images/MarioMushrooms/64x64/mushroom_yellow_64x64.png');
+}
+
+img.icon-nobuilt.icon-lg, img.icon-disabled.icon-lg, img.icon-aborted.icon-lg {
+  background-size: 32px!important;
+  padding: 16px 16px;
+  background: url('/userContent/themes/images/MarioMushrooms/64x64/mushroom_grey_64x64.png');
+}
+
+/* Medium icons */
+
+img.icon-red.icon-md {
+  background-size: 24px!important;
+  padding: 12px 12px;
+  background: url('/userContent/themes/images/MarioMushrooms/48x48/mushroom_red_48x48.png');
+}
+
+img.icon-blue.icon-md {
+  background-size: 24px!important;
+  padding: 12px 12px;
+  background: url('/userContent/themes/images/MarioMushrooms/48x48/mushroom_green_48x48.png');
+}
+
+img.icon-yellow.icon-md {
+  background-size: 24px!important;
+  padding: 12px 12px;
+  background: url('/userContent/themes/images/MarioMushrooms/48x48/mushroom_yellow_48x48.png');
+}
+
+img.icon-nobuilt.icon-md, img.icon-disabled.icon-md, img.icon-aborted.icon-md {
+  background-size: 24px!important;
+  padding: 12px 12px;
+  background: url('/userContent/themes/images/MarioMushrooms/48x48/mushroom_grey_48x48.png');
+}
+
+/* Small icons */
+
+img.icon-red.icon-sm {
+  background-size: 16px!important;
+  padding: 8px 8px;
+  background: url('/userContent/themes/images/MarioMushrooms/32x32/mushroom_red_32x32.png');
+}
+
+img.icon-blue.icon-sm {
+  background-size: 16px!important;
+  padding: 8px 8px;
+  background: url('/userContent/themes/images/MarioMushrooms/32x32/mushroom_green_32x32.png');
+}
+
+img.icon-yellow.icon-sm {
+  background-size: 16px!important;
+  padding: 8px 8px;
+  background: url('/userContent/themes/images/MarioMushrooms/32x32/mushroom_yellow_32x32.png');
+}
+
+img.icon-nobuilt.icon-sm, img.icon-disabled.icon-sm, img.icon-aborted.icon-sm {
+  background-size: 16px!important;
+  padding: 8px 8px;
+  background: url('/userContent/themes/images/MarioMushrooms/32x32/mushroom_grey_32x32.png');
+}
+
